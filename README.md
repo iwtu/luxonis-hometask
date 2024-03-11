@@ -1,4 +1,4 @@
-# HHome Assignment for Luxonis
+# Home Assignment for Luxonis
 
 The app scrapes 500 properties from [sreality.cz](https://sreality.cz)
 
