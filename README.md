@@ -17,6 +17,7 @@ I use `BeautifulSoup` for parsing `HTML` because I am familiar with it and I did
 
 ### What could be done better
 * download 60 properties instead of 20 (probably it requires selenium click)
+* parallel of multiple website pages
 * use an async framework for DB (but for this assignment, it would be pointless)
 * guvicorn with uvicorn workers
 * proper, not hard-coded, config
