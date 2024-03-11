@@ -23,6 +23,7 @@ I use `BeautifulSoup` for parsing `HTML` because I am familiar with it and I did
 * proper, not hard-coded, config
 * error handling
 * structured logging
+* tests
 * HTML template for viewing properties in static the folder
 * more general installation of chromedriver in Dockerfilie
 
