@@ -1,0 +1,8 @@
+icecream
+bs4
+selenium
+webdriver-manager
+psycopg2-binary
+fastapi
+pydantic
+uvicorn

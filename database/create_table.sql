@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS flats (
+    id SERIAL PRIMARY KEY,
+    title TEXT NOT NULL,
+    created TIMESTAMP NOT NULL,
+    img_url TEXT NULL
+);
